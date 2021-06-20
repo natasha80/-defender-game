@@ -1,0 +1,21 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "test command": "",
+  "keywords": "game",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natasha80/-defender-game.git"
+  },
+  "author": "Natalya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natasha80/-defender-game/issues"
+  },
+  "homepage": "https://github.com/natasha80/-defender-game#readme"
+}
